@@ -366,8 +366,6 @@
   "text.autoconfig.dimdoors.option.limbo.limboReturnDistance": "Limbo Return Radius",
   "text.autoconfig.dimdoors.option.limbo.escapeTargetWorld": "Escape To World",
   "text.autoconfig.dimdoors.option.limbo.escapeTargetWorld.@Tooltip": "Defines the id of the world players will spawn in upon exiting Limbo.  Leaving this blank will spawn players in the world their respawn point is in.",
-  "text.autoconfig.dimdoors.option.limbo.escapeTargetWorldYSpawn": "Escape To World Y Level",
-  "text.autoconfig.dimdoors.option.limbo.escapeTargetWorldYSpawn.@Tooltip": "Defines the Y coordinate the player will spawn at when using \"Escape To World\"",
   "text.autoconfig.dimdoors.option.limbo.escapeToWorldSpawn": "Escape to World Spawn",
   "text.autoconfig.dimdoors.option.limbo.escapeToWorldSpawn.@Tooltip": "Boolean that determines if players exiting limbo will return relative to the worldspawn instead.  If true, escapeTargetWorld has no effect.",
   
